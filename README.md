@@ -2,8 +2,6 @@
 ## This tutorial is about how to setup a new environment with correct version of python, pytorch, cuda, conda, etc.
 
 
-
-
 Step 1: install conda
 
   Go to [Anaconda website](https://www.anaconda.com/distribution/)
@@ -32,5 +30,16 @@ Step 5:
 
 
 
+## Other commands:
+
 Visualize Conda enviroments:
+
     conda info --envs
+    
+    
+Pytorch version:
+
+    python
+    import torch
+    print(torch.__version__)
+    
