@@ -48,4 +48,10 @@ CUDA version:
 
     nvcc --version
     
+Delete conda enviroment
+
+    conda remove -n your_env_name --all
+
+Duplicate an environment 
     
+    conda create --name flowers --clone snowflakes
