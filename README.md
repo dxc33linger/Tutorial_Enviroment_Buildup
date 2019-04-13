@@ -29,3 +29,8 @@ Step 4: install pytorch
     
 Step 5:
     pip install other packages such as matplotlib, torchvision,....
+
+
+
+Visualize Conda enviroments:
+    conda info --envs
