@@ -43,3 +43,9 @@ Pytorch version:
     import torch
     print(torch.__version__)
     
+    
+CUDA version:
+
+    nvcc --version
+    
+    
