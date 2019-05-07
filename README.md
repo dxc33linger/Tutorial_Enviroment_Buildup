@@ -60,3 +60,6 @@ Delete conda enviroment
 Duplicate an environment 
     
     conda create --name flowers --clone snowflakes
+
+How To Use SSHFS to Mount Remote File Systems Over SSH
+    sudo sshfs username@destination_address:/home/username/destination_folder local_folder/ -o allow_other
