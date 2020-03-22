@@ -10,7 +10,8 @@ Step 1: install conda
   Linux - python 3.6 -download Anaconda-XX-xxx.sh file
   
     In local home, bash Anaconda-XX-xxx.sh file to install.
-    Add the commands in ./bashrc file.
+    Add the commands in .bashrc file.
+    source .bashrc
   
   
 Step 2: build enviroment
